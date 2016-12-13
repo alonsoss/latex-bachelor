@@ -1,0 +1,18 @@
+# Generated PDF
+*.pdf
+
+# LaTeX temp
+*.aux
+*.bbl
+*.blg
+*.fdb_latexmk
+*.fls
+*.loe
+*.lof
+*.log
+*.lot
+*.out
+*.toc
+*.synctex.gz
+*.texpadtmp
+	
